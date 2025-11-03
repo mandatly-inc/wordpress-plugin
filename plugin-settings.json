@@ -1,0 +1,5 @@
+{
+    "baseURL": "https://cdnscript.mandatlyonline.com/cap",
+    "demoSettingFileName": "/demobannersettings.json",
+    "bannerFolder": "/bn/"
+}
